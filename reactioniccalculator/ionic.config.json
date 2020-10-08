@@ -1,0 +1,7 @@
+{
+  "name": "reactioniccalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
